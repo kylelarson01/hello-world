@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Test adding commit changes
+Test adding commit changes.
